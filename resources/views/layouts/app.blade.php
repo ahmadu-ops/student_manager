@@ -167,9 +167,7 @@
                         <span class="text-sm">&copy; {{ date('Y') }} Student Manager</span>
                     </div>
                     <div class="flex items-center space-x-4 text-sm text-gray-500">
-                        <span>Développé avec</span>
-                        <span class="text-red-500">❤</span>
-                        <span>Laravel & Tailwind CSS</span>
+                        <span>Développé avec Laravel & Tailwind CSS</span>
                     </div>
                 </div>
             </div>
